@@ -29,9 +29,11 @@ This is my first local change to the repo!
 
 ![An image of the Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
+This sentence is about the `draw()` function.
+
 ```
-function helloWorld() {
-console.log("Hello, world!");
+function setup() {
+createCanva(400,400);
 }
 ```
 
